@@ -17,7 +17,8 @@ https://www.linkedin.com/in/eddonner/
 If you'd like to go more deeply into LLMs and Agents:
 - I have a [program of intensive courses on LLM Engineering and Agents](https://edwarddonner.com/curriculum/) with 20+ weeks of courses  
 - My [Proficient AI Engineer Program](https://edwarddonner.com/proficient/)
-- I'm running a number of [Live Events](https://edwarddonner.com/2025/11/11/ai-live-event/) with O'Reilly and Pearson
+- My [YouTube channel](https://youtube.com/@edward.donner) with AI Engineering and Coding Agents videos
+- My [Personal Avatar](https://edwarddonner.com/avatar) where you can chat with my digital twin, and I might join in!
 
 ## For those that use GitHub Codespaces
 
